@@ -4,44 +4,109 @@
     "type": "split",
     "children": [
       {
-        "id": "850553fee39cb170",
+        "id": "3e1c744d7b4e8a2e",
         "type": "tabs",
         "children": [
           {
-            "id": "0d58bfa69b6cd956",
+            "id": "7c50495f090dd8c7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Red1Obs/TRNG in Cryptography applications/النتيجة النهائية.md",
+                "file": "Red1Obs/TRNG in Cryptography applications/Reciperocal Mixing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "النتيجة النهائية"
+              "title": "Reciperocal Mixing"
             }
-          }
-        ]
-      },
-      {
-        "id": "72da98bc7c54e712",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "6fb7b4f8515a7e0e",
+            "id": "1e3a99800db03ba8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Red1Obs/TRNG in Cryptography applications/Homework.md",
+                "file": "Red1Obs/TRNG in Cryptography applications/Spectrom  Regrouth.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Homework"
+              "title": "Spectrom  Regrouth"
+            }
+          },
+          {
+            "id": "a0f56cd05d5613be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Red1Obs/TRNG in Cryptography applications/Phase noise and communication systems.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Phase noise and communication systems"
+            }
+          },
+          {
+            "id": "0965e4c52749f531",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Red1Obs/TRNG in Cryptography applications/Phase Error Accumulation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Phase Error Accumulation"
+            }
+          },
+          {
+            "id": "19260d1be387d718",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Red1Obs/TRNG in Cryptography applications/Phase Error Accumulation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Phase Error Accumulation"
+            }
+          },
+          {
+            "id": "8befe1f7d4074e85",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Red1Obs/Thermal noise.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Thermal noise"
+            }
+          },
+          {
+            "id": "57cb4c8839fcb4cf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Red1Obs/Thermal noise.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Thermal noise"
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -196,20 +261,53 @@
       "canvas:Create new canvas": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "audio-recorder:Start/stop recording": false
+      "audio-recorder:Start/stop recording": false,
+      "workspaces:Manage workspace layouts": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "6fb7b4f8515a7e0e",
+  "active": "57cb4c8839fcb4cf",
   "lastOpenFiles": [
-    "Red1Obs/TRNG in Cryptography applications/النتيجة النهائية.md",
-    "Red1Obs/TRNG in Cryptography applications/Homework.md",
+    "attachments/Pasted image 20251203165018.png",
+    "Red1Obs/Shot noise.md",
+    "attachments/Pasted image 20251203163046.png",
+    "Red1Obs/Thermal noise.md",
+    "attachments/Pasted image 20251203162954.png",
+    "Red1Obs/TRNG in Cryptography applications/Phase Error Accumulation.md",
+    "Red1Obs/TRNG in Cryptography applications/Reciperocal Mixing.md",
+    "attachments/Pasted image 20251203105939.png",
+    "attachments/Pasted image 20251203105909.png",
+    "attachments/Pasted image 20251203105755.png",
+    "attachments/Pasted image 20251203103802.png",
+    "attachments/Pasted image 20251203103652.png",
+    "attachments/Pasted image 20251203103346.png",
+    "attachments/Pasted image 20251203103207.png",
+    "Red1Obs/Ring Oscillator.md",
+    "Red1Obs/Fast Oscillator with Noise Sampling.md",
+    "Red1Obs/TRNG in Cryptography applications/Spectrom  Regrouth.md",
+    "Red1Obs/Youtube.md",
+    "attachments/Pasted image 20251203100925.png",
+    "Red1Obs/TRNG in Cryptography applications/Phase noise and communication systems.md",
+    "Red1Obs/TRNG in Cryptography applications/Emerging Physical Phenomena.md",
+    "Red1Obs/TRNG in Cryptography applications/Physical Entropy Sources.md",
+    "Red1Obs/TRNG in Cryptography applications/TRNG in Cryptography applications.md",
+    "Tamplate/note_temp.md",
+    "Tamplate",
+    "Red1Obs/TRNG in Cryptography applications/Metastable Collapse.md",
+    "Red1Obs/TRNG in Cryptography applications/Chaos-Based TRNGs.md",
+    "Red1Obs/TRNG in Cryptography applications/Amplifying Noise.md",
+    "Red1Obs/TRNG in Cryptography applications/Quantum-Based TRNGs.md",
+    "Red1Obs/TRNG in Cryptography applications/Sampling Noise.md",
+    "Red1Obs/TRNG in Cryptography applications/Racing Noise Circuits.md",
+    "Red1Obs/TRNG in Cryptography applications/Metastabelity.md",
+    "Red1Obs/Physical Entropy Source.md",
+    "Red1Obs/TRNG in Cryptography applications/Quantum Sources.md",
+    "Red1Obs/TRNG in Cryptography applications/ring oscillator jitters.md",
+    "Red1Obs/TRNG in Cryptography applications/Ring Oscillaors.md",
+    "Homework.md",
     "Red1Obs/Untitled 1.base",
     "Red1Obs/Untitled.base",
-    "Red1Obs/TRNG in Cryptography applications/TRNG in Cryptography applications.md",
-    "attachments/state of the artPNG.png",
     "attachments",
-    "README.md",
-    "Red1Obs/red.md",
     "Red1Obs/TRNG in Cryptography applications"
   ]
 }
